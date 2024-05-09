@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-<!--
-**zalikahs/zalikahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B220&random=false&width=435&lines=mahasiswa+UNNES;jurusan+matematika" alt="Typing SVG" /></a>
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
